@@ -1,0 +1,19 @@
+# Compiled binary
+simpleShell
+
+#word files
+*.docx
+
+#Text files
+*.txt
+
+#PDF Files
+*.pdf
+
+#Shell Scripts
+*.sh
+
+#ignore log files
+*.log
+
+.DS_Store
